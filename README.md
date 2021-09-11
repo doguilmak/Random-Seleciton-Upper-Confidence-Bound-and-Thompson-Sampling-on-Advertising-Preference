@@ -63,7 +63,7 @@ Three methods were evaluated based on how many times preferred advertisements we
 
 ## How to Run Code
 
-Before running the code if you don't have all the necessery libraries, you need to have these libraries:
+Before running the code make sure that you have these libraries:
 
  - pandas 
  - matplotlib
