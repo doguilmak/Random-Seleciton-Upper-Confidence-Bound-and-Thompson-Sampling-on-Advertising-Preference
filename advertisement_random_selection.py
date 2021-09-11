@@ -38,8 +38,8 @@ chosen = []
 for n in range(0, N):
     ad = random.randrange(d)
     chosen.append(ad)
-    odul = df.values[n, ad]
-    summation = summation + odul
+    reward = df.values[n, ad]
+    summation = summation + reward
 
 print('Total Reward:')   
 print(summation)  # Highest UCB value
