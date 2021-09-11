@@ -76,4 +76,3 @@ If you have something to say to me please contact me:
 
  - Twitter: [Doguilmak](https://twitter.com/Doguilmak).  
  - Mail address: doguilmak@gmail.com
-# Random-Seleciton-Upper-Confidence-Bound-and-Thompson-Sampling-on-Advertising-Preference
