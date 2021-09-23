@@ -13,10 +13,6 @@ Data set is created by myself. Values ​​are generated to be completely rando
 
 In this project, as stated in the title, results were obtained through three different methods. These methods are as respectively listed below:
 
- ***1. Random Selection***
- ***2. Upper Confidence Bound (UCB)***
- ***3. Thompson Sampling***
-
  1. ***Random Selection***
  2. ***Upper Confidence Bound (UCB)***
  3. ***Thompson Sampling***
