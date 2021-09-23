@@ -17,9 +17,9 @@ In this project, as stated in the title, results were obtained through three dif
  ***2. Upper Confidence Bound (UCB)***
  ***3. Thompson Sampling***
 
- 1. a
- 2. b
- 3. c
+ 1. ***Random Selection***
+ 2. ***Upper Confidence Bound (UCB)***
+ 3. ***Thompson Sampling***
 
 Three methods were evaluated based on how many times preferred advertisements were actually preferred and these values.
 
